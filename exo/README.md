@@ -19,6 +19,12 @@ Commande de base a connaitre pour commencer avec react:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Init Projetc
+
+### `npm install`
+
+use this commande after start for install the dependency
+
 ## Available Scripts
 
 In the project directory, you can run:
